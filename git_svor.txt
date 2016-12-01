@@ -13,9 +13,9 @@
 	git checkout - skiptir um sérvalda branch og upfærir directoryíið sem verið er að vinna í
 
 3. Hver er munurinn á eftirfarandi git skipunum:
-	a) git diff 
-	b) git diff --staged 
-	c) git diff commit1 commit2
+	a) git diff - sýnir file'a mismun sem eru ekki staged
+	b) git diff --staged - sýnir file'a mismum af seinustu 2 save'uðum fileum
+	c) git diff commit1 commit2 - tekur upp mynd í history
 
 4. 	Hvað er útgáfustýring (e.version control)? 
 
