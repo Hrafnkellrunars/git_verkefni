@@ -6,3 +6,5 @@
 	mkdir - Býr til nýtt directory
 
 2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone - copy/paste'ar respository í nýja directory
+	git log - sýnir logs (history) yfir allt sem þú hefur skrifað
