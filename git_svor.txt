@@ -32,3 +32,5 @@
 
 8.	Hvenær er sniðugt að nota greinar (branches)? 
 	Sniðugt er að nota branches til að 'merga' breytingar í verkefninu þínu eða hópsins við original útgáfuna
+
+	Hrafnkell Rúnarsson
