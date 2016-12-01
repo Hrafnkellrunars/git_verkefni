@@ -1,0 +1,2 @@
+1. Hvað gera eftirfarandi Linux skipanir?
+	cd - Breytir directory sem þú ert að vinna í
