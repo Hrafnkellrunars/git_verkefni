@@ -8,9 +8,9 @@
 2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
 	git clone - copy/paste'ar respository í nýja directory
 	git log - sýnir logs (history) yfir allt sem þú hefur skrifað
-	git status - 
-	git diff
-	git checkout
+	git status - sýnir allar nýja eða breytta file'a sem eftir á að committa
+	git diff - Sýnir file'a mismun sem eru ekki staged
+	git checkout - skiptir um sérvalda branch og upfærir directoryíið sem verið er að vinna í
 
 3. Hver er munurinn á eftirfarandi git skipunum:
 	a) git diff 
