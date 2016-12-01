@@ -18,11 +18,17 @@
 	c) git diff commit1 commit2 - tekur upp mynd í history
 
 4. 	Hvað er útgáfustýring (e.version control)? 
+	Útgáfustýring er notuð til að veita upplýsingar um útgáfur og hvar var gert í þessum útgáfum. Oftast nauðsynlegar upplýsingar til að hafa til þess að notandi og útgefandi geti fylgst með hvað er verið að breyta og bæta.
 
 5.	Hverjir eru helstu kostir við að nota GIT?
+	Þæginlegt að vinna í hópum og létt að geta deilt verkefninu svo aðrir geta lært af þér
 
 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+	Það er persónulegt, en það er best að gera það þegar þú ert búinn með það sem þú ætlar að gera yfir daginn eða þú ert hættur/ búinn með þinn part eða önnur manneskja er að far að vinna í verkefninu
 
 7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+	Working directory er þegar þú notar 'cd' og ert að vinna í ákveðni möppu eða file. - Staging Area er "folderið" sem þú geymir file'in þín locally áður en þú committar þeim á git repository'ið - Repository er eins og "folder" í tölvunni þinni þar sem þú getur geymt file'ana þína. 
+
 
 8.	Hvenær er sniðugt að nota greinar (branches)? 
+	Sniðugt er að nota branches til að 'merga' breytingar í verkefninu þínu eða hópsins við original útgáfuna
