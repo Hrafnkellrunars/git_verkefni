@@ -1,2 +1,8 @@
 1. Hvað gera eftirfarandi Linux skipanir?
 	cd - Breytir directory sem þú ert að vinna í
+	cd ~ - Er stytting í staðinn fyrir að skrifa alltaf nafn notandans þegar þú ert að skipta um file path
+	ls - Sýnir lista yfir directory sem maður getur valið
+	pwd - sýnir hvaða directory maður er að vinna í
+	mkdir - Býr til nýtt directory
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
